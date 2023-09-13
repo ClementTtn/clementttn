@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🧑‍💻 Web Development Master's degree student at [ECV Bordeaux](https://www.ecv.fr/digital/mastere-developpement-web/ "ECV Website")
-- 🍇 Apprenticeship at [Oenodata](https://www.oenodata.fr "Oenodata Website")
+- 🧑‍💻 Web Development Master's degree student at [ECV Bordeaux](https://www.ecv.fr/digital/mastere-developpement-web/ "ECV Website") {:target="_blank"}
+- 🍇 Apprenticeship at [Oenodata](https://www.oenodata.fr "Oenodata Website") {:target="_blank"}
 - 🔭 I'm currently working on a commercial website for GV Controls (not yet published)
 
 <!--
