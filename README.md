@@ -3,7 +3,7 @@
 - 🧑‍💻 Web Development Master's degree student at [ECV Bordeaux](https://www.ecv.fr/digital/mastere-developpement-web/ "ECV Website") 
 - 🍇 Apprenticeship at [Oenodata](https://www.oenodata.fr "Oenodata Website")
 - 🔭 I'm currently working on a commercial website for GV Controls (not yet published)
-- 📫 Here's my [LinkedIn](www.linkedin.com/in/clement-tutin "LinkedIn")
+- 📫 Here's my [LinkedIn](https://www.linkedin.com/in/clement-tutin "LinkedIn")
 
 <!--
 
